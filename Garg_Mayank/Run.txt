@@ -1,0 +1,10 @@
+To run the program use the following:
+
+
+1) Prepare an input text file. The code expects an input file that contains commands for managing delivery orders.
+You can create a text file and write commands in the format given in the pdf.
+
+2)Open a terminal or command prompt and navigate to the directory where you saved the gatorDelivery.py file.
+
+3)Execute this command: python gatorDelivery.py input_file.txt
+input_file.txt is the name of the file which has commands to be executed by the code.
