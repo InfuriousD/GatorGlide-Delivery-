@@ -1,9 +1,7 @@
 # 🚚 GatorGlide Delivery System – AVL Tree Based Order Manager
-
-**Course:** COP 5536 - Data Structures and Algorithms  
+  
 **Project:** GatorGlide Delivery System  
 **Language:** Python  
-**Due Date:** April 3, 2024
 
 ---
 
@@ -75,4 +73,3 @@ Garg_Mayank/
 
 Mayank Garg  
 University of Florida  
-COP 5536 – Spring 2024
